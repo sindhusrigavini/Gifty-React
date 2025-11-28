@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/sindhusrigavini/Gifty-ReactJs",
+  "homepage": "https://sindhusrigavini.github.io/Gifty-React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
